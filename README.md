@@ -67,7 +67,7 @@ print(sess.run(c))
 
 可通过返回的信息确定是否是启用了gpu
 
-# Step5 跑下面的c程序文件测试
+# Step5 跑下面的程序文件测试
 
 https://github.com/SuperQiRui/Keras-test/blob/master/helloWorld.py 中的文件测试
 
